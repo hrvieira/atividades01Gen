@@ -9,4 +9,3 @@ console.log("\nSeu abono é: ", abono.toFixed(2));
 let novoSalario = salario + abono;
 
 console.log("\nSeu novo salário é: ", novoSalario.toFixed(2))
-
